@@ -2,3 +2,4 @@ master file
 delete in new branch
 
 master Add some changes. Delete in Source
+Delete next commit
