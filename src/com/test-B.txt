@@ -1,2 +1,4 @@
 test B 
 commit 1
+
+Create new branch
